@@ -1,13 +1,13 @@
-<h1 align="center"> Hi 👋, I'm Vishal Patel</h1>
-<h3 align="center">A passionate Data Analytics from India</h3>
+<h1 align="center"> Hi 👋, I'm Naresh Kumar</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
 
-- 🌱 I’m currently learning **Data analytics**
+- 🌱 I’m currently learning **Python (Django)**
 
-- 📫 How to reach me **vp385958@gmail.com**
+- 📫 How to reach me **nareshsisodiya1996@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/__vishal.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__vishal.p" height="30" width="40" /></a>
+<a href="https://www.instagram.com/narsa_raj_sisodiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__vishal.p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
