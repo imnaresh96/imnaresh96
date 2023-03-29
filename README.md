@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/narsa_raj_sisodiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Naresh_Kumar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Naresh_kumar" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="blank"><img align="center" src="C:\Users\Admin\Downloads/174857.png" alt="Naresh_kumar" height="30" width="40" /></a>  
 </p>
 <p align="left"> 
 <h3 align="left">Languages and Tools:</h3>
