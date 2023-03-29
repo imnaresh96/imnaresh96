@@ -13,11 +13,8 @@
 <p align="left"> 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;
-
 <a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" height="40" width="40" /></a>&nbsp;
-
-<a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML" height="40" width="40" /></a>&nbsp;  
-
+<a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML" height="40" width="40" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/9307/9307630.png" alt="HTML" height="40" width="40" /></a>&nbsp; 
 
 </p>
