@@ -12,10 +12,10 @@
 </p>
 <p align="left"> 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" height="30" width="30" /></a> 
-<a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/9307/9307630.png" alt="Django" height="30" width="30" /></a> 
-<a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Mysql" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" height="40" width="40" /></a> 
+<a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/9307/9307630.png" alt="Django" height="40" width="40" /></a> 
+<a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Mysql" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/naresh-kumar-303583248/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" height="40" width="40" /></a>
 
 </p>
